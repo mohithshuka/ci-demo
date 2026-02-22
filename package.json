@@ -1,0 +1,4 @@
+"scripts": {
+  "test": "node test.js",
+  "build": "echo Build successful"
+}
