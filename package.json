@@ -1,4 +1,12 @@
-"scripts": {
-  "test": "node test.js",
-  "build": "echo Build successful"
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo Build successful"
+  },
+  "author": "",
+  "license": "ISC"
 }
